@@ -1,0 +1,4 @@
+1 Jack M 22 N212 C22
+2 Chara F 15 C118 B10
+3 Frisk F 16 C118 B11
+4 Rose F 24 N223 B10
