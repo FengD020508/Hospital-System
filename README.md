@@ -8,7 +8,7 @@ This is a simple hospital manage system(only for administrator) exercise, contai
 - Store the data into .txt files.
 - Load data from the files.
 
-##Usage
+## Usage
 
 1. Run `App.class`.
 
