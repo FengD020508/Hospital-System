@@ -10,12 +10,13 @@ This is a simple hospital manage system(only for administrator) exercise, contai
 
 ## Usage
 
-1. Run `App.class`.
-
+1. Open this project in compiler and Run `App.class`.
 2. Key in the username and password to login ( default username and password are both admin ).
 3. Choose your operation: add/delete/modify.
 4. Choose the Class you want to change.
 5. Key in the data.
+
+note that the folder "out" uses to store .class file.
 
 #### Notice
 
