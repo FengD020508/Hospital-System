@@ -1,14 +1,14 @@
 # Hospital-System
 This is a simple hospital manage system(only for administrator) exercise, contains 11 classes.
 
-#### Functions
+## Functions
 
 - Login
 - Add/Delete/Modify/View(default) Patients,Nurses and Directors
 - Store the data into .txt files.
 - Load data from the files.
 
-#### Usage
+##Usage
 
 1. Run `App.class`.
 
